@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantiagoFK
-- 👀 I’m interested in C#, Java languages, Python.
-- 🌱 I’m currently learning C#,C++, HMTL/CSS/JavaScript.
+- 👀 I’m interested in C#, Java and Python languajes.
+- 🌱 I’m currently learning C#,C++ and HMTL/CSS/JavaScript.
 - 💞️ I’m looking to collaborate on video game development, learning applications.
 - 📫 How to reach me: santiagofb932@gmail.com
 
